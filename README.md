@@ -17,3 +17,5 @@ It includes :
  6.Handling rare categorical feature.
  
  7.Feature engineering.
+ 
+Here "train" file contain the train data on which the data analysis is applied and "exploratory data analysis" file contain the required code.
